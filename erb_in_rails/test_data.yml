@@ -1,0 +1,9 @@
+devices:
+  - name: eth0
+    ipaddr: 192.168.12.166
+    netmask: 255.255.255.0
+    gateway: 192.168.12.254
+  - name: br0
+    ipaddr: 192.168.12.199
+    netmask: 255.255.255.0
+    gateway: 192.168.12.204
